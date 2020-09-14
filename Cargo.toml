@@ -1,0 +1,16 @@
+[package]
+name = "tea"
+version = "0.1.0"
+authors = ["Yevhen Hrabovetskyi <evgueniy.g@gmail.com>"]
+edition = "2018"
+# homepage = "https://github.com/jimmycuadra/rust-etcd"
+keywords = ["teajs", "encryption"]
+license = "GPL3"
+readme = "README.md"
+# repository = "https://github.com/jimmycuadra/rust-etcd"
+
+[lib]
+test = false
+
+[dependencies]
+rand = "0.7"
